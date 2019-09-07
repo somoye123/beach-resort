@@ -21,5 +21,3 @@ export default class FeaturedRooms extends Component {
     );
   }
 }
-
-// "react-scripts": "^3.1.0"
